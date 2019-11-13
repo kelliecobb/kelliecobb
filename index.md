@@ -16,7 +16,7 @@
 ### Programming Projects
 
 - [Data Structures I Class Project - ](http://example.com/)
-- [Signals and Systems Class Project - MATLAB Convolution Processing](http://example.com/)
+- [Signals and Systems Class Project - MATLAB Digital Signal Processing](https://docs.google.com/document/d/1Z4eoE59PdcQEaKK66lvaQY25ejm5ofHylBh3FhMC8LQ/edit?usp=sharing)
 
 ---
 
